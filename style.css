@@ -1,0 +1,67 @@
+:root {
+  --light: #f7f7f7;
+  --dark: #1a1a1a;
+  --med: #808080;
+
+  --foreground: var(--dark);
+  --background: var(--light);
+
+  --fontStack: ;
+}
+
+* {
+  box-sizing: border-box;
+  font: inherit;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    background: #fff;
+    color: #000;
+    font-family: "Fira Code", monospace;
+    font-size: 15px;
+    box-sizing: border-box;
+    padding: 2em;
+    letter-spacing: 1px;
+    word-break: break-all;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 700;
+    margin-bottom: 1em; 
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+input {
+    border-radius: 4px;
+    margin-bottom: 1em; 
+    padding: .25em .5em;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+}
+
+ol {
+    margin-left: 2em;
+}
+
+ol li {
+    padding-bottom: .5em;
+    line-height: 1.5em;
+}
+
+a {
+    color: #000;
+}
