@@ -10,7 +10,7 @@ This requires PHP and python to run.
 
 Place the contents of the repo in a directory called **reader** inside your root web directory (such as **/var/www/html/reader**).
 
-Create a `key.txt` file one directory up from your root web directory (such as **/var/www**). [i:This should not be accessible via a browser.]
+Create a `key.txt` file one directory up from your root web directory (such as **/var/www**). _This should not be accessible via a browser_.
 
 Create a `data.txt` file in the reader directory.
 
