@@ -1,7 +1,7 @@
 # Reader
 I decided to move away from Pocket for saving articles to read later, and instead build my own little app. This is by no means top quality coding, it was thrown together to solve a problem.
 This requires PHP and python to run.
-**Source code:** [l:https://github.com/0xdstn/reader]
+**Source code:** [https://github.com/0xdstn/reader](https://github.com/0xdstn/reader)
 ## Setup
 Place the contents of the repo in a directory called **reader** inside your root web directory (such as **/var/www/html/reader**).
 Create a `key.txt` file one directory up from your root web directory (such as **/var/www**). [i:This should not be accessible via a browser.]
