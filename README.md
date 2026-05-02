@@ -4,8 +4,6 @@ I decided to move away from Pocket for saving articles to read later, and instea
 
 This requires PHP and python to run.
 
-**Project Page:** [https://tilde.town/~dustin/projects/reader](https://tilde.town/~dustin/projects/reader)
-
 ## Setup
 
 Place the contents of the repo in a directory called **reader** inside your root web directory (such as **/var/www/html/reader**).
